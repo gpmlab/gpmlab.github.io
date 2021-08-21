@@ -1,3 +1,6 @@
 [submodule "algoink"]
 	path = algoink
 	url = https://github.com/gpmlab/algoink.git
+[submodule "P5LIVE"]
+	path = P5LIVE
+	url = https://github.com/ffd8/P5LIVE.git
