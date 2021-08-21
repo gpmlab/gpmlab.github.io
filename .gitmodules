@@ -1,0 +1,3 @@
+[submodule "algoink"]
+	path = algoink
+	url = https://github.com/gpmlab/algoink.git
